@@ -1,4 +1,4 @@
-# debezium-kafka-pyspark pipeline with Transformer based predictive model
+# Debezium-kafka-pyspark pipeline with Transformer based predictive model
 
 ## Prerequisites
 - Docker
